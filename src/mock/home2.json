@@ -1,0 +1,104 @@
+{
+    "ret": true,
+    "data": {
+        "list": [{
+                    "id": "1",
+                    "name":"苹果",
+                    "price":"5",
+                    "piece":"个",
+                    "imgUrl": "https://imgqn9.fruitday.com/images/product_pic/4746/1/1-370x370-4746-7UKA83R9.jpg"
+                }, 
+                {
+                    "id": "2",
+                    "price":"8",
+                    "piece":"个",
+                    "name":"澳大利亚脐橙",
+                    "imgUrl": "https://imgqn9.fruitday.com/images/product_pic/5908/1/1-370x370-5908-6PRBD515.jpg"
+                }, 
+                {
+                    "id": "3",
+                    "name":"新西兰阳光奇异果",
+                    "price":"10",
+                    "piece":"个",
+                    "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/2126/1/1-370x370-2126-AD52KXPA.jpg"
+                },
+                {
+                    "id": "4",
+                    "name":"墨西哥牛油果",
+                    "price":"15",
+                    "piece":"个",
+                    "imgUrl": "https://imgqn6.fruitday.com/images/product_pic/7/1/1-370x370-7-15SS31WX.jpg"
+                },
+                {
+                    "id": "5",
+                    "name":"天山雪梨",
+                    "price":"6",
+                    "piece":"个",
+                    "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/3511/1/1-370x370-3511-D1UWDC3R.jpg"
+                },
+                {
+                    "id": "6",
+                    "name":"以色列白心青釉",
+                    "price":"20",
+                    "piece":"个",
+                    "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/4196/1/1-370x370-4196-B4W1RK5A.jpg"
+                }, 
+                {
+                    "id": "7",
+                    "name":"南丰蜜桔",
+                    "price":"20",
+                    "piece":"斤",
+                    "imgUrl": "https://imgqn1.fruitday.com/images/product_pic/3923/1/1-370x370-3923-DK365CW6.jpg"
+                }, 
+                {
+                    "id": "8",
+                    "name":"台湾释迦",
+                    "price":"15",
+                    "piece":"个",
+                    "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/22/1/1-370x370-22-T3H48Y8C.jpg"
+                },
+                {
+                    "id": "9*",
+                    "price":"13",
+                    "piece":"个",
+                    "name":"海南黑金刚莲雾",
+                    "imgUrl": "https://imgqn4.fruitday.com/images/product_pic/686/1/1-370x370-686-C7W2FT3X.jpg"
+                },
+                {
+                    "id": "10",
+                    "name":"泰国土豪红柚",
+                    "price":"25",
+                    "piece":"个",
+                    "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/6017/1/1-370x370-6017-D955856H.jpg"
+                },
+                {
+                    "id": "11",
+                    "name":"金蜜香芒果",
+                    "price":"19",
+                    "piece":"斤",
+                    "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/684/1/1-370x370-684-1FDTPBF7.jpg"
+                }, 
+                {
+                    "id": "12",
+                    "name":"法国青苹果",
+                    "price":"30",
+                    "piece":"斤",
+                    "imgUrl": "https://imgqn6.fruitday.com/images/product_pic/6045/1/1-370x370-6045-5BRCWC7R.jpg"
+                }, 
+                {
+                    "id": "13",
+                    "name":"拇指青桔",
+                    "price":"18",
+                    "piece":"斤",
+                    "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/2031/1/1-370x370-2031-K47X63TY.jpg"
+                },
+                {
+                    "id": "14",
+                    "name":"桂林金桔",
+                    "price":"19",
+                    "piece":"斤",
+                    "imgUrl": "https://imgqn3.fruitday.com/images/product_pic/579/1/1-370x370-579-KDD472FC.jpg"
+                }
+            ]
+    }
+}

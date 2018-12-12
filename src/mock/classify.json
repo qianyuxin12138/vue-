@@ -1,0 +1,348 @@
+{
+    "ret": true,
+    "data": {
+        "list": [
+            {
+                "type":"全部",
+                "id":"1",
+                "fruit":[{
+                        "id": "1",
+                        "node":"1",
+                        "name":"苹果",
+                        "price":"5",
+                        "piece":"个",
+                        "imgUrl": "https://imgqn9.fruitday.com/images/product_pic/4746/1/1-370x370-4746-7UKA83R9.jpg"
+                        },
+                        {
+                            "id": "2",
+                            "node":"2",
+                            "price":"13",
+                            "piece":"个",
+                            "name":"海南黑金刚莲雾",
+                            "imgUrl": "https://imgqn4.fruitday.com/images/product_pic/686/1/1-370x370-686-C7W2FT3X.jpg"
+                        },
+                        {
+                            "id": "3",
+                            "node":"3",
+                            "price":"8",
+                            "piece":"个",
+                            "name":"澳大利亚脐橙",
+                            "imgUrl": "https://imgqn9.fruitday.com/images/product_pic/5908/1/1-370x370-5908-6PRBD515.jpg"
+                        }, 
+                        {
+                            "id": "4",
+                            "node":"4",
+                            "name":"南丰蜜桔",
+                            "price":"20",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn1.fruitday.com/images/product_pic/3923/1/1-370x370-3923-DK365CW6.jpg"
+                        },
+                        {
+                            "id": "5",
+                            "node":"5",
+                            "name":"泰国土豪红柚",
+                            "price":"25",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/6017/1/1-370x370-6017-D955856H.jpg"
+                        },
+                        {
+                            "id": "6",
+                            "node":"6",
+                            "name":"香蕉",
+                            "price":"9",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/6017/1/1-370x370-6017-D955856H.jpg"
+                        },
+                        {
+                            "id": "7",
+                            "node":"7",
+                            "name":"琯溪蜜柚",
+                            "price":"35",
+                            "piece":"个",
+                            "imgUrl":"https://imgqn1.fruitday.com/images/product_pic/3359/1/1-370x370-3359-P3H7U1D7.jpg"
+                        },
+                        {
+                            "id": "8",
+                            "node":"8",
+                            "name":"拇指青桔",
+                            "price":"18",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/2031/1/1-370x370-2031-K47X63TY.jpg"
+                        },
+                        {
+                            "id": "9",
+                            "node":"9",
+                            "name":"桂林金桔",
+                            "price":"19",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn3.fruitday.com/images/product_pic/579/1/1-370x370-579-KDD472FC.jpg"
+                        },
+                        {
+                            "id": "10",
+                            "node":"10",
+                            "name":"新西兰阳光奇异果",
+                            "price":"10",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/2126/1/1-370x370-2126-AD52KXPA.jpg"
+                        },
+                        {
+                            "id": "11",
+                            "node":"11",
+                            "name":"墨西哥牛油果",
+                            "price":"15",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn6.fruitday.com/images/product_pic/7/1/1-370x370-7-15SS31WX.jpg"
+                        },
+                        {
+                            "id": "12",
+                            "node":"12",
+                            "name":"以色列白心青釉",
+                            "price":"20",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/4196/1/1-370x370-4196-B4W1RK5A.jpg"
+                        }, 
+                        {
+                            "id": "13",
+                            "node":"13",
+                            "name":"法国青苹果",
+                            "price":"30",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn6.fruitday.com/images/product_pic/6045/1/1-370x370-6045-5BRCWC7R.jpg"
+                        }
+
+                    ]
+            },
+            {
+                "type":"应季水果",
+                "id":"2",
+                "fruit":[{
+                        "id": "1",
+                        "node":"1",
+                        "name":"苹果",
+                        "price":"5",
+                        "piece":"个",
+                        "imgUrl": "https://imgqn9.fruitday.com/images/product_pic/4746/1/1-370x370-4746-7UKA83R9.jpg"
+                        },
+                        {
+                            "id": "2",
+                            "node":"3",
+                            "price":"8",
+                            "piece":"个",
+                            "name":"澳大利亚脐橙",
+                            "imgUrl": "https://imgqn9.fruitday.com/images/product_pic/5908/1/1-370x370-5908-6PRBD515.jpg"
+                        }, 
+                        {
+                            "id": "3",
+                            "node":"4",
+                            "name":"南丰蜜桔",
+                            "price":"20",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn1.fruitday.com/images/product_pic/3923/1/1-370x370-3923-DK365CW6.jpg"
+                        },
+                        {
+                            "id": "4",
+                            "node":"5",
+                            "name":"泰国土豪红柚",
+                            "price":"25",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/6017/1/1-370x370-6017-D955856H.jpg"
+                        },
+                        {
+                            "id": "5",
+                            "node":"7",
+                            "name":"琯溪蜜柚",
+                            "price":"35",
+                            "piece":"个",
+                            "imgUrl":"https://imgqn1.fruitday.com/images/product_pic/3359/1/1-370x370-3359-P3H7U1D7.jpg"
+                        },
+                        {
+                            "id": "6",
+                            "node":"8",
+                            "name":"拇指青桔",
+                            "price":"18",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/2031/1/1-370x370-2031-K47X63TY.jpg"
+                        },
+                        {
+                            "id": "7",
+                            "node":"9",
+                            "name":"桂林金桔",
+                            "price":"19",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn3.fruitday.com/images/product_pic/579/1/1-370x370-579-KDD472FC.jpg"
+                        }
+                    ]
+            },
+            {
+                "type":"当季热销",
+                "id":"3",
+                "fruit":[{
+                        "id": "1",
+                        "node":"1",
+                        "name":"苹果",
+                        "price":"5",
+                        "piece":"个",
+                        "imgUrl": "https://imgqn9.fruitday.com/images/product_pic/4746/1/1-370x370-4746-7UKA83R9.jpg"
+                        }, 
+                        {
+                            "id": "2",
+                            "node":"4",
+                            "name":"南丰蜜桔",
+                            "price":"20",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn1.fruitday.com/images/product_pic/3923/1/1-370x370-3923-DK365CW6.jpg"
+                        },
+                        {
+                            "id": "3",
+                            "node":"5",
+                            "name":"泰国土豪红柚",
+                            "price":"25",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/6017/1/1-370x370-6017-D955856H.jpg"
+                        },
+                        {
+                            "id": "4",
+                            "node":"7",
+                            "name":"琯溪蜜柚",
+                            "price":"35",
+                            "piece":"个",
+                            "imgUrl":"https://imgqn1.fruitday.com/images/product_pic/3359/1/1-370x370-3359-P3H7U1D7.jpg"
+                        },
+                        {
+                            "id": "5",
+                            "node":"8",
+                            "name":"拇指青桔",
+                            "price":"18",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/2031/1/1-370x370-2031-K47X63TY.jpg"
+                        },
+                        {
+                            "id": "6",
+                            "node":"10",
+                            "name":"新西兰阳光奇异果",
+                            "price":"10",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/2126/1/1-370x370-2126-AD52KXPA.jpg"
+                        }
+
+                    ]
+            },
+            {
+                "type":"国产水果",
+                "id":"4",
+                "fruit":[{
+                        "id": "1",
+                        "node":"1",
+                        "name":"苹果",
+                        "price":"5",
+                        "piece":"个",
+                        "imgUrl": "https://imgqn9.fruitday.com/images/product_pic/4746/1/1-370x370-4746-7UKA83R9.jpg"
+                        },
+                        {
+                            "id": "2",
+                            "node":"2",
+                            "price":"13",
+                            "piece":"个",
+                            "name":"海南黑金刚莲雾",
+                            "imgUrl": "https://imgqn4.fruitday.com/images/product_pic/686/1/1-370x370-686-C7W2FT3X.jpg"
+                        }, 
+                        {
+                            "id": "3",
+                            "node":"4",
+                            "name":"南丰蜜桔",
+                            "price":"20",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn1.fruitday.com/images/product_pic/3923/1/1-370x370-3923-DK365CW6.jpg"
+                        },
+                        {
+                            "id": "4",
+                            "node":"6",
+                            "name":"香蕉",
+                            "price":"9",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/6017/1/1-370x370-6017-D955856H.jpg"
+                        },
+                        {
+                            "id": "5",
+                            "node":"7",
+                            "name":"琯溪蜜柚",
+                            "price":"35",
+                            "piece":"个",
+                            "imgUrl":"https://imgqn1.fruitday.com/images/product_pic/3359/1/1-370x370-3359-P3H7U1D7.jpg"
+                        },
+                        {
+                            "id": "6",
+                            "node":"8",
+                            "name":"拇指青桔",
+                            "price":"18",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/2031/1/1-370x370-2031-K47X63TY.jpg"
+                        },
+                        {
+                            "id": "7",
+                            "node":"9",
+                            "name":"桂林金桔",
+                            "price":"19",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn3.fruitday.com/images/product_pic/579/1/1-370x370-579-KDD472FC.jpg"
+                        }
+                    ]
+            },
+            {
+                "type":"进口水果",
+                "id":"5",
+                "fruit":[
+                        {
+                            "id": "1",
+                            "node":"3",
+                            "price":"8",
+                            "piece":"个",
+                            "name":"澳大利亚脐橙",
+                            "imgUrl": "https://imgqn9.fruitday.com/images/product_pic/5908/1/1-370x370-5908-6PRBD515.jpg"
+                        },
+                        {
+                            "id": "2",
+                            "node":"5",
+                            "name":"泰国土豪红柚",
+                            "price":"25",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/6017/1/1-370x370-6017-D955856H.jpg"
+                        },
+                        {
+                            "id": "3",
+                            "node":"10",
+                            "name":"新西兰阳光奇异果",
+                            "price":"10",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn8.fruitday.com/images/product_pic/2126/1/1-370x370-2126-AD52KXPA.jpg"
+                        },
+                        {
+                            "id": "4",
+                            "node":"11",
+                            "name":"墨西哥牛油果",
+                            "price":"15",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn6.fruitday.com/images/product_pic/7/1/1-370x370-7-15SS31WX.jpg"
+                        },
+                        {
+                            "id": "5",
+                            "node":"12",
+                            "name":"以色列白心青釉",
+                            "price":"20",
+                            "piece":"个",
+                            "imgUrl": "https://imgqn5.fruitday.com/images/product_pic/4196/1/1-370x370-4196-B4W1RK5A.jpg"
+                        }, 
+                        {
+                            "id": "6",
+                            "node":"13",
+                            "name":"法国青苹果",
+                            "price":"30",
+                            "piece":"斤",
+                            "imgUrl": "https://imgqn6.fruitday.com/images/product_pic/6045/1/1-370x370-6045-5BRCWC7R.jpg"
+                        }
+
+                    ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "ret": true,
+    "data": {
+        "list": [{
+                    "id": "1",
+                    "imgUrl": "https://imgqn6.fruitday.com/images/2018-11-27/1015f81de74a147c06770ba447f35e26.jpg"
+                }, 
+                {
+                    "id": "2",
+                    "imgUrl": "https://imgqn2.fruitday.com/images/2018-11-22/56f9e97f7582875cefdec3c15ac59b80.jpg"
+                }, 
+                {
+                    "id": "3",
+                    "imgUrl": "https://imgqn3.fruitday.com/images/2018-11-27/d223e7a69b59357f9037e7247660bfc5.jpg"
+                },
+                {
+                    "id": "4",
+                    "imgUrl": "https://imgqn1.fruitday.com/images/2018-11-26/1a7d64129df799e607a8360e6ca4c7db.jpg"
+                },
+                {
+                    "id": "5",
+                    "imgUrl": "https://imgqn8.fruitday.com/images/2018-11-22/39520cc6209057e52d625977b51d64b0.jpg"
+                }
+            ]
+    }
+}
